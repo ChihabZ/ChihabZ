@@ -1,29 +1,41 @@
-# 💫 About Me:
-# 👋 HELLO! I'm Chihab Zaim<br><br>🎓 2nd-year Computer Engineering student  <br>💻 Software, Game & Web Developer  <br>🤖 Interested in Embedded Systems & Robotic Systems Development  <br>📍 Algeria<br><br>---<br><br>## 🚀 About Me<br>- 2nd-year **Computer Engineering student**<br>- **Intermediate Game Developer** (gameplay systems, interaction, world design)<br>- **Intermediate Web Developer**<br>- Strong interest in **embedded systems** and **robotic systems development**<br>- I like understanding how software interacts with hardware and real-world systems<br><br>
+# 👋 Hi, I'm Chihab Zaim
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chihabzaim12@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChihabZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChihabZ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChihabZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChihabZ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChihabZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 2nd-year Computer Engineering student  
+💻 Software, Game & Web Developer  
+🤖 Interested in Embedded & Robotic Systems  
+📍 Algeria
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChihabZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
+- Computer Engineering student
+- Intermediate **Game Developer** (Unity, gameplay systems)
+- Intermediate **Web Developer**
+- Interested in **embedded systems & robotics**
+- Passionate about software–hardware interaction
+
+---
+
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ChihabZ&show_icons=true&theme=dark" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChihabZ&layout=compact&theme=dark" height="150"/>
+
+---
+
+## 📫 Contact
+📧 chihabzaim12@gmail.com
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **ChihabZ/ChihabZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
