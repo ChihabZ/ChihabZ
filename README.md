@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chihab Zaim
 
-🎓 2nd-year Computer Engineering student  
+🎓 3rd-year Computer Engineering student  
 💻 Software, Game & Web Developer  
 🤖 Interested in Embedded & Robotic Systems  
 📍 Algeria
